@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on getting a cs master degree in cqupt and seeking for a front-end job!
+- 🔭 I’m currently working on getting a cs master degree in [![cqupt]](http://www.cqupt.edu.cn/) and seeking for a front-end job!
 - 🌱 I’m currently learning react.js
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on getting a cs master degree in cqupt and seeking for a front-end job!
-- 🌱 I’m currently learning javascript, react.js and linux 
+- 🔭 I’m currently working on getting a cs master degree in [cqupt](http://www.cqupt.edu.cn/) and seeking for a front-end job!
+- 🌱 I’m currently learning javascript, react.js and linux ...
 - 💬 Ask me about sth i do not know
 - 📫 How to reach me: you can contact me via fankaljead@gmail.com
 - 😄 Pronouns: aka fankaljead 
 - ⚡ Fun fact: we should get every moved
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fankaljead&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fankaljead&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fankaljead&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
