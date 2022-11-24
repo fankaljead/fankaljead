@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: aka fankaljead 
 - ⚡ Fun fact: we should get every moved
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fankaljead&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Fankaljead's GitHub stats](https://github-readme-stats-3ibrb84wl-fankaljead.vercel.app/api?username=fankaljead&show_icons=true&theme=transparent)](https://github.com/fankaljead/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fankaljead&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-3ibrb84wl-fankaljead.vercel.app/api/top-langs/?username=fankaljead&show_icons=true)](https://github.com/fankaljead/github-readme-stats)
 
 <p>
   <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=fankaljead&bg_color=2D2B55&color=A297E6&line=A297E6&point=D9B60C"></a>
